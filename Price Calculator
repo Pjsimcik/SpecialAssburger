@@ -15,7 +15,7 @@
 
          function updateResult()
          {
-            e("inputE").value = f("inputA") * (f("inputB") / 100) * f("inputC") * f("inputD");
+            e("inputE").value = f("inputL") * f("inputW") * f("inputH");
          }
       </script>
    </head>
