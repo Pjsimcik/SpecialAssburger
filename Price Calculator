@@ -21,10 +21,9 @@
    </head>
    <body>
       <div onkeyup="updateResult()">
-      A:<br> <input type="text" id="inputA" value="1"><br><br>
-      B:<br> <input type="text" id="inputB" value="100"> %<br><br>
-      C:<br> <input type="text" id="inputC" value="2"><br><br>
-      D:<br> <input type="text" id="inputD" value="3"><br><br>
+      L:<br> <input type="text" id="inputL" value="1"><br><br>
+      W:<br> <input type="text" id="inputW" value="2"> %<br><br>
+      H:<br> <input type="text" id="inputH" value="3"><br><br>
       Result:<br> <input type="text" id="inputE" readonly="true">
       </div>
     </body>
